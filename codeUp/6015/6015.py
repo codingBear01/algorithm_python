@@ -1,6 +1,6 @@
-a, b = input().split()
+a, b = input("1,2").split()
 print(a)
-print(b)
+print(b, a)
 
 # 참고
 # python의 input()은 한 줄 단위로 입력을 받는다.

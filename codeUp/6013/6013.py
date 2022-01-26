@@ -1,4 +1,4 @@
-a = input()
-b = input()
+a = input("z")
+b = input("x")
 print(b)
 print(a)
