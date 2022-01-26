@@ -1,5 +1,4 @@
-f = input()
-f = float(f)
-print(f)
-
-# 실수
+a = input()
+b = input()
+print(a)
+print(b)
